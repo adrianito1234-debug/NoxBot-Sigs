@@ -9,6 +9,14 @@
       "rev": 1,
       "arch": "x64",
       "exe": ["Nostalrius_OpenGL.exe", "Nostalrius_DX.exe", "Nostalrius.exe"]
+    },
+    {
+      "id": "deusot",
+      "label": "DeusOT x86",
+      "file": "deusot.nxs",
+      "rev": 1,
+      "arch": "x86",
+      "exe": ["DeusOT.exe"]
     }
   ]
 }
