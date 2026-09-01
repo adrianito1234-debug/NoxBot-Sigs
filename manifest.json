@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "notes": "Sigs cifradas NoxBot (.nxs). Offsets NO van en texto plano. nostalrius-3.0.1 includes gettop.",
+  "notes": "Sigs cifradas NoxBot (.nxs) pepper v2. Repo privado — requiere PAT en cliente.",
   "clients": [
     {
       "id": "nostalrius",
