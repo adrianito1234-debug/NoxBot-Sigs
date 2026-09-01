@@ -1,12 +1,12 @@
 {
-  "version": 1,
-  "notes": "Sigs cifradas NoxBot (.nxs). Offsets NO van en texto plano.",
+  "version": 2,
+  "notes": "Sigs cifradas NoxBot (.nxs). Offsets NO van en texto plano. nostalrius-3.0.1 includes gettop.",
   "clients": [
     {
       "id": "nostalrius",
       "label": "Nostalrius 7.4 x64",
-      "file": "nostalrius.nxs",
-      "rev": 1,
+      "file": "nostalrius-3.0.1.nxs",
+      "rev": 2,
       "arch": "x64",
       "exe": ["Nostalrius_OpenGL.exe", "Nostalrius_DX.exe", "Nostalrius.exe"]
     },
