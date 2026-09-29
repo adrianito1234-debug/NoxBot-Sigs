@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "notes": "Sigs cifradas NoxBot (.nxs) pepper v2. Repo privado — requiere PAT en cliente.",
+  "clients": [
+    {
+      "id": "nostalrius",
+      "label": "Nostalrius 7.4 x64",
+      "file": "nostalrius.nxs",
+      "rev": 3,
+      "arch": "x64",
+      "exe": [
+        "Nostalrius_OpenGL.exe",
+        "Nostalrius_DX.exe",
+        "Nostalrius.exe"
+      ]
+    },
+    {
+      "id": "anticaretro",
+      "label": "Antica Retro x64",
+      "file": "anticaretro.nxs",
+      "rev": 1,
+      "arch": "x64",
+      "exe": [
+        "Antica Retro opengl.exe",
+        "Antica Retro directx.exe"
+      ]
+    },
+    {
+      "id": "retronicgl",
+      "label": "Retronic 7.4 OpenGL x86",
+      "file": "retronicgl.nxs",
+      "rev": 2,
+      "arch": "x86",
+      "exe": [
+        "RetronicGL.exe"
+      ]
+    },
+    {
+      "id": "retronicdx",
+      "label": "Retronic 7.4 DirectX x86",
+      "file": "retronicdx.nxs",
+      "rev": 2,
+      "arch": "x86",
+      "exe": [
+        "RetronicDX.exe"
+      ]
+    },
+    {
+      "id": "olders",
+      "label": "Olders 7.4 x64",
+      "file": "olders.nxs",
+      "rev": 1,
+      "arch": "x64",
+      "exe": [
+        "Olders_OpenGL.exe",
+        "Olders_DX9.exe"
+      ]
+    }
+  ]
+}
